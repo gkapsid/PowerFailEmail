@@ -1,2 +1,11 @@
 # PowerFailEmail
-Arduino + ethernet Shield code to send email when power fail occurs and restored
+
+##Neccessary hardware
+*Arduino Uno (or Leonardo)
+
+*Ethernet shield (or equivalent)
+
+*A circuit to detect power failure
+
+
+
